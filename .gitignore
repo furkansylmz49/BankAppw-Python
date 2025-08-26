@@ -1,0 +1,22 @@
+# MacOS gereksiz dosyaları
+.DS_Store
+
+# Python cache dosyaları
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Sanal ortam
+.venv/
+env/
+venv/
+
+# PyInstaller build klasörü (dist dahil edilmesin dersen aç)
+build/
+
+# IDE / Editor dosyaları
+.vscode/
+.idea/
+
+
